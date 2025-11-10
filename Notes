@@ -9,7 +9,7 @@ HTML - Hyper text Markup language
 
 2) paragraph - p
 
-3) hr 
+3) hr
 
 4) br
 
@@ -24,3 +24,21 @@ HTML - Hyper text Markup language
 9) Tables - th, tr and td
 
 10) forms - Inputs, labels, placeholder, required
+
+11) media elements - video and Audio
+
+12) Sematic tags - header, footer, nav, main, section
+
+
+CSS - Cascading Style Sheet
+
+1) Types of CSS
+i - inline
+ii - internal
+iii - External
+inline > internal > external
+
+2) CSS Synatax
+ selector{
+    property:value;
+ }
