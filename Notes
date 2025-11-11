@@ -42,3 +42,30 @@ inline > internal > external
  selector{
     property:value;
  }
+
+3) Types of selector
+i - element selector - h1, h2 and p
+ii - Class selector - (.) - Multiple types can use a same class name
+iii - Id selector - (#) - Unique, Only one time can use the same Id name
+iv - Universal selector - (*) -  To apply the site
+v - Group selector - same class name or id contains different tags, we wnat to same style means use with group select
+
+4) Colors and Background
+    color: red;
+    background-color: green;
+    background-image: url(./Assets/Spider-man.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+5) Text Styling
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 1px;
+    
+    

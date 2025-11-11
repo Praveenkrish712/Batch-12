@@ -1,3 +1,39 @@
+*{
+    background-color: green;
+}
+
 h1{
     color: hotpink;
+}
+
+h2{
+    color: red;
+}
+
+.one > h1, 
+.one > h2,
+.one > h3,
+.one > h4{
+    color: yellow;
+}
+
+
+#Two > h2{
+    color: darkgray;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: line-through;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+p{
+    background-image: url(./Assets/Spider-man.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
