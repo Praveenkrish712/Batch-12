@@ -68,4 +68,8 @@ v - Group selector - same class name or id contains different tags, we wnat to s
     line-height: 1;
     letter-spacing: 1px;
     
-    
+6) box Modeling
+   i - margin
+  ii - border   
+ iii - padding
+  iv - content
