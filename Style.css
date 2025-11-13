@@ -54,3 +54,81 @@ p{
     margin-left: 200px; */
     /* margin: 30px 40px 60px 70px; */
 }
+
+.box1{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    /* flex: 1; */
+    order: 3;
+}
+
+.box2{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    /* flex: 1; */
+    order: 1;
+}
+
+.box3{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    /* flex: 1; */
+    order: 2;
+}
+
+.box4{
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.box5{
+    width: 200px;
+    height: 100px;
+    background-color: grey;
+}
+
+.box6{
+    width: 200px;
+    height: 100px;
+    background-color: darkcyan;
+}
+
+.box7{
+    width: 200px;
+    height: 100px;
+    background-color: darkgrey;
+}
+
+.box8{
+    width: 200px;
+    height: 100px;
+    background-color: coral;
+}
+
+.box9{
+    width: 200px;
+    height: 100px;
+    background-color: crimson;
+}
+
+.box10{
+    width: 200px;
+    height: 100px;
+    background-color: hotpink;
+}
+
+.Container{
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* flex-direction: row; */
+    /* height: 500px; */
+    /* gap: 10px; */
+    /* border: 2px solid black; */
+    /* align-content: space-evenly; */
+    /* align-items: end; */
+    /* justify-content: space-between; */
+}

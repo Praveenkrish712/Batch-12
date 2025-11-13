@@ -73,3 +73,13 @@ v - Group selector - same class name or id contains different tags, we wnat to s
   ii - border   
  iii - padding
   iv - content
+
+7) Flex (Display)
+1. Flex Direction - row, row-reverse, coloumn, coloumn-reverse
+2. Justify content - (X) - Start, end, center, space-around, space-between, space-evenly
+3. Align items - (Y) - Start, end, center
+4. flex Wrap - no-wrap, wrap, wrap-reverse
+5. Align content (Y) - (Whenever wrap will enable then only Align content will work) - Start, end, center, space-around, space-between, space-evenly
+6. Gap - to be assign with values (px,cm,m,em,%)
+7. Flex (on items) - only use with flex 1 property
+8. order - Change the visual order
