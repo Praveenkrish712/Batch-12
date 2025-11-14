@@ -82,4 +82,13 @@ v - Group selector - same class name or id contains different tags, we wnat to s
 5. Align content (Y) - (Whenever wrap will enable then only Align content will work) - Start, end, center, space-around, space-between, space-evenly
 6. Gap - to be assign with values (px,cm,m,em,%)
 7. Flex (on items) - only use with flex 1 property
-8. order - Change the visual order
+8. order - Change the visual order 
+
+8) Position
+  i - static (default)
+ ii - Relative
+iii - Absolute
+ iv - fixed
+  v - Sticky
+
+  
