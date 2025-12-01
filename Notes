@@ -93,5 +93,8 @@ iii - Absolute
 
 9) Grid (Display) = 2- dimensional layout system
 
+10) Transition and Animation
 
+Transition - transform(Rotata(X,Y),scale(X,Y),translate(X,Y))
+Animation - 
   
